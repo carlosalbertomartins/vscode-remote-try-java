@@ -1,0 +1,9 @@
+package com.mycompany;
+
+public interface iluminador {
+
+    void ligar()
+    void desligar()
+    void exibir()
+    
+}
